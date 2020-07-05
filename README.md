@@ -18,7 +18,7 @@ Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der A
 Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
 
 ### Identität und Accounts
-Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit 256 Bit AES verschlüsselt, um eine hohe Sicherheit für die Speicherung des Passwortes zu erreichen.
+Ihre Zugangsdaten von Ihrem Stadtmobil-Account (Benutzername und Passwort) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
 
 ### Speicher (Fotos, Medien und Dateien)
 Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, Stadtmobil-Stationen, Fahrzeuge und Buchungen. 
@@ -27,16 +27,16 @@ Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertrag
 Ihr Standort wird verwendet, um passende Inhalte in Ihrer Näche anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen inc. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
 
 ## Wird das Nutzungsverhalten mit Tracking ausgewertet?
-Es wird kein Nutzungsverhalten ausgewertet. Es werden Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
+Es wird kein Nutzungsverhalten ausgewertet. Es werden in seltenen Fällen Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
 
 ## Werden die Daten an Dritte übertragen?
-Ihre persönlichen Daten werden ausschließlich an die Carsharing Dienste zur Realisierung der Funktionalität übermittelt.
+Ihre persönlichen Daten werden ausschließlich an die Carsharing Dienste zur Realisierung der Funktionalität übermittelt. 
 
 ## Details:
 
 Fridolin Jackstadt built the Stadtmobil CarSharing (schnell und einfach) app as a Commercial app. This SERVICE is provided by Fridolin Jackstadt and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Servi
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Stadtmobil CarSharing (schnell und einfach) unless otherwise defined in this Privacy Policy.
