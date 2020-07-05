@@ -3,7 +3,7 @@
 ## Informationen zum Anbieter
 
 Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webseite von Stadtmobil bzw. 
-[carsharing-deutschland](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil bzw. den jeweiligen CarSharing-Anbieter gilt die [Datenschutzerklärung von carsharing-deutschland](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
+[carsharing-deutschland](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil bzw. den jeweiligen CarSharing-Anbieter gilt die [Datenschutzerklärung von carsharing-deutschland](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz).
 
 ## Kontaktdaten
 
