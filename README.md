@@ -3,15 +3,16 @@
 ## Informationen zum Anbieter
 
 Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webseite von Stadtmobil bzw. 
-[https://carsharing-deutschland.de](https://carsharing-deutschland.de). Für die verarbeitung Ihrer Daten durch Stadtmobil gilt die Datenschutzerklärung von carsharing-deutschland ([https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
+[https://carsharing-deutschland.de](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil gilt die Datenschutzerklärung von carsharing-deutschland ([https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
 
 ## Kontaktdaten
 
-Fridolin Jackstadt
-Karlsruhe, Deutschland
+Fridolin Jackstadt\
+Karlsruhe, Deutschland\
 stadtmobil.app@gmail.com
 
 ## Wofür werden die Zugriffsrechte benötigt?
+Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der App bereitzustellen.
 
 ### Internet
 Datenübertragung unter anderem zu den Stadtmobil Buchungsdiensten und laden der Karte (Google Maps).
@@ -35,7 +36,7 @@ Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverw
 Es wird kein Nutzungsverhalten ausgewertet. Es werden Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
 
 ## Werden die Daten an Dritte übertragen?
-
+Ihre persönlichen Daten werden ausschließlich an die Carsharing Dienste zur Realisierung der Funktionalität übermittelt.
 
 ## Wie kann ich meine Daten löschen?
 ## Wie kann ich der Datennutzung widersprechen?
