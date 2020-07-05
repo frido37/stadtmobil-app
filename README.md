@@ -24,7 +24,7 @@ Ihre Zugangsdaten von Ihrem Stadtmobil-Account (Benutzername und Passwort sowie 
 Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, Stadtmobil-Stationen, Fahrzeuge und Buchungen. 
 
 ### Standort
-Ihr Standort wird verwendet, um passende Inhalte in Ihrer Näche anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen inc. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
+Ihr Standort wird verwendet, um passende Inhalte in Ihrer Nähe anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen inc. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
 
 ## Wird das Nutzungsverhalten mit Tracking ausgewertet?
 Es wird kein Nutzungsverhalten ausgewertet. Es werden in seltenen Fällen Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
