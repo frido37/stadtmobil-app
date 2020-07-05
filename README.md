@@ -18,7 +18,7 @@ Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der A
 Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
 
 ### Identität und Accounts
-Ihre Zugangsdaten von Ihrem Stadtmobil-Account (Benutzername und Passwort) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
+Ihre Zugangsdaten von Ihrem Stadtmobil-Account (Benutzername und Passwort sowie Vorname und Nachname) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
 
 ### Speicher (Fotos, Medien und Dateien)
 Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, Stadtmobil-Stationen, Fahrzeuge und Buchungen. 
@@ -43,7 +43,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to abcdeft. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 
