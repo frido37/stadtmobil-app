@@ -3,7 +3,7 @@
 ## Informationen zum Anbieter
 
 Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webseite von Stadtmobil bzw. 
-[https://carsharing-deutschland.de](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil gilt die Datenschutzerklärung von carsharing-deutschland ([https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
+[carsharing-deutschland](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil gilt die [Datenschutzerklärung von carsharing-deutschland](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
 
 ## Kontaktdaten
 
@@ -17,11 +17,8 @@ Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der A
 ### Internet
 Datenübertragung unter anderem zu den Stadtmobil Buchungsdiensten und laden der Karte (Google Maps).
 
-### Kontakte
-TODO: 
-
-### Accounts
-TODO
+### Identität und Accounts
+Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit TODO_XXXXX verschlüsselt, um die bestmögliche Sicherheit für die Speicherung des Passworts zu erreichen.
 
 ### Speicher (Fotos, Medien und Dateien)
 Zwischenspeichern von Kartendaten und Informationen über die Stadtmobil-Stationen, -Fahrzeuge und -Buchungen.
@@ -29,17 +26,11 @@ Zwischenspeichern von Kartendaten und Informationen über die Stadtmobil-Station
 ### Standort
 Anzeige der Karte mit Google Maps für Ihren aktuellen Standort passend. Anzeige von Stationen und Fahrzeugen für Ihren aktuellen Standort incl. der Entfernung.
 
-### Identität
-Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit TODO_XXXXX verschlüsselt, um die bestmögliche Sicherheit für die Speicherung des Passworts zu erreichen.
-
-## Wir das Nutzungsverhalten mit Tracking ausgewertet?
+## Wird das Nutzungsverhalten mit Tracking ausgewertet?
 Es wird kein Nutzungsverhalten ausgewertet. Es werden Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
 
 ## Werden die Daten an Dritte übertragen?
 Ihre persönlichen Daten werden ausschließlich an die Carsharing Dienste zur Realisierung der Funktionalität übermittelt.
-
-## Wie kann ich meine Daten löschen?
-## Wie kann ich der Datennutzung widersprechen?
 
 ## Details:
 
