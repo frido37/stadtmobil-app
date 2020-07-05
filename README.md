@@ -7,8 +7,8 @@ Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webse
 
 ## Kontaktdaten
 
-Fridolin Jackstadt\
-Karlsruhe, Deutschland\
+Fridolin Jackstadt  
+Karlsruhe, Deutschland  
 stadtmobil.app@gmail.com
 
 ## Wofür werden die Zugriffsrechte benötigt?
