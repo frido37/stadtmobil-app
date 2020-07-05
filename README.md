@@ -15,7 +15,7 @@ stadtmobil.app@gmail.com
 Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der App bereitzustellen.
 
 ### Internet
-Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
+Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Die Daten werden sicher und verschlüsselt mit HTTPS übertragen. Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
 
 ### Identität und Accounts
 Ihre Zugangsdaten von Ihrem CarSharing-Account (Benutzername und Passwort sowie Vorname und Nachname) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
