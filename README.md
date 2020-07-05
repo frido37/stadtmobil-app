@@ -3,7 +3,7 @@
 ## Informationen zum Anbieter
 
 Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webseite von Stadtmobil bzw. 
-[carsharing-deutschland](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil gilt die [Datenschutzerklärung von carsharing-deutschland](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
+[carsharing-deutschland](https://carsharing-deutschland.de). Für die Verarbeitung Ihrer Daten durch Stadtmobil bzw. den jeweiligen CarSharing-Anbieter gilt die [Datenschutzerklärung von carsharing-deutschland](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
 
 ## Kontaktdaten
 
@@ -15,16 +15,16 @@ stadtmobil.app@gmail.com
 Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der App bereitzustellen.
 
 ### Internet
-Datenübertragung unter anderem zu den Stadtmobil Buchungsdiensten und laden der Karte (Google Maps).
+Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
 
 ### Identität und Accounts
-Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit TODO_XXXXX verschlüsselt, um die bestmögliche Sicherheit für die Speicherung des Passworts zu erreichen.
+Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit 256 Bit AES verschlüsselt, um eine hohe Sicherheit für die Speicherung des Passwortes zu erreichen.
 
 ### Speicher (Fotos, Medien und Dateien)
-Zwischenspeichern von Kartendaten und Informationen über die Stadtmobil-Stationen, -Fahrzeuge und -Buchungen.
+Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, Stadtmobil-Stationen, Fahrzeuge und Buchungen. 
 
 ### Standort
-Anzeige der Karte mit Google Maps für Ihren aktuellen Standort passend. Anzeige von Stationen und Fahrzeugen für Ihren aktuellen Standort incl. der Entfernung.
+Ihr Standort wird verwendet, um passende Inhalte in Ihrer Näche anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen inc. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
 
 ## Wird das Nutzungsverhalten mit Tracking ausgewertet?
 Es wird kein Nutzungsverhalten ausgewertet. Es werden Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
@@ -36,8 +36,7 @@ Ihre persönlichen Daten werden ausschließlich an die Carsharing Dienste zur Re
 
 Fridolin Jackstadt built the Stadtmobil CarSharing (schnell und einfach) app as a Commercial app. This SERVICE is provided by Fridolin Jackstadt and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Servi
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Stadtmobil CarSharing (schnell und einfach) unless otherwise defined in this Privacy Policy.
