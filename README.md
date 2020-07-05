@@ -18,13 +18,13 @@ Die Zugriffsrechte dienen ausschließlich dazu, die angebotenen Funktionen der A
 Datenübertragung unter anderem zu den Buchungsdiensten des CarSharing-Anbieters und Kartendaten (Google Maps). Es können Fehlerberichte zur Verbesserung der Qualität erfasst und übermittelt werden. Dabei gelten die Datenschutzbestimmungen von [Firebase Crashlytics](https://firebase.google.com/support/privacy/).
 
 ### Identität und Accounts
-Ihre Zugangsdaten von Ihrem Stadtmobil-Account (Benutzername und Passwort sowie Vorname und Nachname) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
+Ihre Zugangsdaten von Ihrem CarSharing-Account (Benutzername und Passwort sowie Vorname und Nachname) werden sicher in der zentralen Accountverwaltung ihres Gerätes gespeichert. Das Passwort wird für eine besonders hohe Sicherheit zusätzlich mit 256 Bit AES verschlüsselt.
 
 ### Speicher (Fotos, Medien und Dateien)
-Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, Stadtmobil-Stationen, Fahrzeuge und Buchungen. 
+Daten aus dem Internet werden zwischengespeichert, um wiederholte Datenübertragungen zu vermeiden und die Reaktionszeiten der App zu verbessern. Zu den gespeicherten Daten gehören unter anderem Kartendaten, CarSharing-Stationen, Fahrzeuge und Buchungen. 
 
 ### Standort
-Ihr Standort wird verwendet, um passende Inhalte in Ihrer Nähe anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen inc. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
+Ihr Standort wird verwendet, um passende Inhalte in Ihrer Nähe anzuzeigen. Beispiele für die Nutzung des Standortes ist die Visualisierung in der Karte und Auflistung der nächstgelegenen Stationen incl. Entfernung zu Ihrem Standort. Für den Fall, dass die Standortnutzung abgelehnt wird, zeigt der Kartenausschnitt einen Bereich, in dem Ihr Provider Stationen hat und die Entfernungsangabe bei der Station entspricht dem Mittelpunkt des angezeigten Kartenausschnitts.
 
 ## Wird das Nutzungsverhalten mit Tracking ausgewertet?
 Es wird kein Nutzungsverhalten ausgewertet. Es werden in seltenen Fällen Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
