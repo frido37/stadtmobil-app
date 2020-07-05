@@ -1,4 +1,46 @@
-**Privacy Policy**
+# Datenschutzerklärung Stadtmobil Carsharing (schnell und einfach)
+
+## Informationen zum Anbieter
+
+Es handelt sich um eine privat entwickelte App auf Basis der öffentlichen Webseite von Stadtmobil bzw. 
+[https://carsharing-deutschland.de](https://carsharing-deutschland.de). Für die verarbeitung Ihrer Daten durch Stadtmobil gilt die Datenschutzerklärung von carsharing-deutschland ([https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz](https://carsharing-deutschland.de/#52.3725-9.7376-13-2/more/datenschutz))
+
+## Kontaktdaten
+
+Fridolin Jackstadt
+Karlsruhe, Deutschland
+stadtmobil.app@gmail.com
+
+## Wofür werden die Zugriffsrechte benötigt?
+
+### Internet
+Datenübertragung unter anderem zu den Stadtmobil Buchungsdiensten und laden der Karte (Google Maps).
+
+### Kontakte
+TODO: 
+
+### Accounts
+TODO
+
+### Speicher (Fotos, Medien und Dateien)
+Zwischenspeichern von Kartendaten und Informationen über die Stadtmobil-Stationen, -Fahrzeuge und -Buchungen.
+
+### Standort
+Anzeige der Karte mit Google Maps für Ihren aktuellen Standort passend. Anzeige von Stationen und Fahrzeugen für Ihren aktuellen Standort incl. der Entfernung.
+
+### Identität
+Speicher der Zugangsdaten (Benutzername und Passwort) in der Android-Accountverwaltung. Das Passwort wird zusätzlich mit TODO_XXXXX verschlüsselt, um die bestmögliche Sicherheit für die Speicherung des Passworts zu erreichen.
+
+## Wir das Nutzungsverhalten mit Tracking ausgewertet?
+Es wird kein Nutzungsverhalten ausgewertet. Es werden Fehlerberichte an Crashlytics gesendet, um die Stabilität und Qualität der App zu verbessern.
+
+## Werden die Daten an Dritte übertragen?
+
+
+## Wie kann ich meine Daten löschen?
+## Wie kann ich der Datennutzung widersprechen?
+
+## Details:
 
 Fridolin Jackstadt built the Stadtmobil CarSharing (schnell und einfach) app as a Commercial app. This SERVICE is provided by Fridolin Jackstadt and is intended for use as is.
 
